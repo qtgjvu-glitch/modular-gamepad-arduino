@@ -32,9 +32,9 @@ void loop() {
 
 
 
-硬體接線：
-VCC (紅) $\rightarrow$ Arduino 5V（或 3.3V）   
-GND (黑) $\rightarrow$ Arduino GND   
-SCL (白) $\rightarrow$ Arduino A5   
-SDA (紫) $\rightarrow$ Arduino A4   
-AD0 (黃) $\rightarrow$ 先接 Arduino GND   
+//硬體接線：
+//VCC (紅) $\rightarrow$ Arduino 5V（或 3.3V）   
+//GND (黑) $\rightarrow$ Arduino GND   
+//SCL (白) $\rightarrow$ Arduino A5   
+//SDA (紫) $\rightarrow$ Arduino A4   
+//AD0 (黃) $\rightarrow$ 先接 Arduino GND   
